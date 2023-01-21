@@ -1,0 +1,8 @@
+.idea
+*.iws
+*.inl
+*.ipr
+Homework11.iml
+target/
+!**/src/main/**/build/
+!**/src/test/**/build/
